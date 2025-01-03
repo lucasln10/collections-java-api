@@ -1,4 +1,4 @@
-package collectionsJAVAapi;
+package minhascompras;
 
 public class Item {
 	private String nome;

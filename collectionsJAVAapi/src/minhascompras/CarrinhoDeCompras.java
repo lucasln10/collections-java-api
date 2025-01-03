@@ -1,4 +1,4 @@
-package collectionsJAVAapi;
+package minhascompras;
 
 import java.util.ArrayList;
 import java.util.List;
