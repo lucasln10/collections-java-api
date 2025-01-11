@@ -1,4 +1,4 @@
-package ordenacao;
+package list;
 
 public class Numeros implements Comparable<Numeros> {
 	private int numero;

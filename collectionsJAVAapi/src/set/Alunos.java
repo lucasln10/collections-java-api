@@ -1,4 +1,4 @@
-package alunos;
+package set;
 
 public class Alunos {
 	private String nome;

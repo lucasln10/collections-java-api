@@ -1,10 +1,10 @@
-package somanumeros;
+package list;
 
 import java.util.ArrayList;
 import java.util.List;
 
 public class SomaNumeros {
-	List<NumerosInteiros> numerosInt;
+	private List<NumerosInteiros> numerosInt;
 	
 	public SomaNumeros () {
 		this.numerosInt = new ArrayList<>();

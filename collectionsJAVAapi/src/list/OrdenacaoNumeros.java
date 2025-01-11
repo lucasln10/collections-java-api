@@ -1,11 +1,11 @@
-package ordenacao;
+package list;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
 public class OrdenacaoNumeros {
-	List<Numeros> numeroInt;
+	private List<Numeros> numeroInt;
 	
 	public OrdenacaoNumeros() {
 		this.numeroInt = new ArrayList<>();

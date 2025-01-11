@@ -1,4 +1,4 @@
-package tarefas;
+package set;
 
 
 public class Tarefas {

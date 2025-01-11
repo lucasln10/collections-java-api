@@ -1,4 +1,4 @@
-package somanumeros;
+package list;
 
 public class NumerosInteiros {
 	private int numero;

@@ -1,7 +1,6 @@
-package palavraunicas;
+package set;
 
 import java.util.Objects;
-import java.util.Set;
 
 public class Palavras {
 	private String palavrasUnicas;

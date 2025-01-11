@@ -1,4 +1,4 @@
-package tarefas;
+package set;
 
 import java.util.HashSet;
 import java.util.Scanner;
@@ -7,7 +7,7 @@ import java.util.Set;
 
 
 public class ListaTarefas {
-	Set<Tarefas> listaTarefa;
+	private Set<Tarefas> listaTarefa;
 	Scanner sc = new Scanner(System.in);
 	
 	

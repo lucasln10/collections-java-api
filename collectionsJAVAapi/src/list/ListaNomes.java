@@ -1,10 +1,11 @@
-package nomes;
+package list;
 
 import java.util.ArrayList;
 import java.util.List;
 
 public class ListaNomes {
 	private List<Nomes> listaNomes;
+	
 	public ListaNomes(){
 		this.listaNomes = new ArrayList<>();
 	}

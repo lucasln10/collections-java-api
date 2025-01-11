@@ -1,4 +1,4 @@
-package nomes;
+package list;
 
 public class Nomes {
 	private String nomes;

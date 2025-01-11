@@ -1,10 +1,10 @@
-package alunos;
+package set;
 
 import java.util.HashSet;
 import java.util.Set;
 
 public class GerenciadorAlunos {
-	Set<Alunos> escola;
+	private Set<Alunos> escola;
 	
 	public GerenciadorAlunos () {
 		this.escola = new HashSet<>();
